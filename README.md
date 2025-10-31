@@ -9,4 +9,4 @@ This extension provides basic blocks for sending HTTP GET and POST requests.
 
 ## Notes
 
-This is a scaffold. You’ll need to implement actual communication logic depending on your hardware (e.g., ESP8266, ESP32, Jacdac).
+This is a scaffold. You’ll need to implement actual communication logic depending on your hardware (e.g., ESP8266, ESP32, Jacdac)
