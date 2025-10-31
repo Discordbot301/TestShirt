@@ -1,0 +1,10 @@
+{
+  "name": "httpclient",
+  "description": "Simple HTTP GET extension",
+  "dependencies": {},
+  "files": [
+    "http.ts",
+    "README.md"
+  ],
+  "public": true
+}
